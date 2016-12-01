@@ -8,7 +8,7 @@
 <li><a href="http://www.gbhgis.org/">Great Britain Historical Geographical Information System (GBHGIS)</a></li>
 <li><a href="http://www.hgis.org.uk/">Historical GIS Research Network</a></li>
 <li>Ian Gregory, Professor of Digital Humanities, Lancaster University<a href="http://www.lancaster.ac.uk/staff/gregoryi/"> Lancaster University Profile</a></li>
-<li><a href="http://www2.pr.gov/agencias/gis/Pages/default.aspx">Sistemas de Informacion Geografica del Gobierno de Puerto Rico</a></li>
+<li><a href="http://www2.pr.gov/agencias/gis/Pages/default.aspx">Sistemas de Informacion Geografica del Gobierno de Puerto Rico</a></li></ul>
 
 
 <h1>Quantitative History</h1>
@@ -19,7 +19,7 @@ Investigadores
 <ul>
 <li>Robert McCaa, Research Professor, Ambassador, IPUMS-International<a href="https://scholar.google.com/citations?user=MMXGTRgAAAAJ&hl=es&oi=ao"> Google Scholar Profile</a></li>
 <li>Robert McCaa, Research Professor, Ambassador, IPUMS-International<a href="http://users.pop.umn.edu/~rmccaa/"> IPUMS Profile</a></li>
-<li>Steven Ruggles, Regents Professor of History and Population<a href="https://scholar.google.com/citations?user=nvIl0pUAAAAJ">Google Scholar Profile</a></li>
+<li>Steven Ruggles, Regents Professor of History and Population<a href="https://scholar.google.com/citations?user=nvIl0pUAAAAJ">Google Scholar Profile</a></li></ul>
 
 Revistas
 <ul>
@@ -27,6 +27,6 @@ Revistas
 <li><a href="https://www.cambridge.org/core/journals/social-science-history">Social Science History - Cambridge University Press</a></li>
 <li><a href="
 https://www.jstor.org/journal/socisciehist">Social Science History - Cambridge University Press</a> Acceso por JSTOR</li>
-<li><a href="https://history.mit.edu/social-science-history">Social Science History - Massachusetts Institute of Technology</a></li>
+<li><a href="https://history.mit.edu/social-science-history">Social Science History - Massachusetts Institute of Technology</a></li></ul>
 
 

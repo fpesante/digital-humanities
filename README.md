@@ -4,15 +4,10 @@
 
 <p>Recursos relacionados a sistema de informacion geografica historicos.</p>
 
-
 <ul>
 <li><a href="http://www.gbhgis.org/">Great Britain Historical Geographical Information System (GBHGIS)</a></li>
-<ul>
-<ul>
 <li><a href="http://www.hgis.org.uk/">Historical GIS Research Network</a></li>
-<ul>
 <li>Ian Gregory, Professor of Digital Humanities, Lancaster University<a href="http://www.lancaster.ac.uk/staff/gregoryi/">Lancaster University Profile</a></li>
-<ul>
 <li><a href="http://www2.pr.gov/agencias/gis/Pages/default.aspx">Sistemas de Informacion Geografica del Gobierno de Puerto Rico</a></li>
 
 

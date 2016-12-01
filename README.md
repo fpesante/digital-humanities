@@ -15,18 +15,18 @@
 
 <p>Recursos relacionados a historia cuantitativa.</p>
 
-<u>Investigadores</u>
+Investigadores
 <ul>
-<li>Steven Ruggles, Regents Professor of History and Population<a href="https://scholar.google.com/citations?user=nvIl0pUAAAAJ">Google Scholar Profile</a></li>
 <li>Robert McCaa, Research Professor, Ambassador, IPUMS-International<a href="https://scholar.google.com/citations?user=MMXGTRgAAAAJ&hl=es&oi=ao"> Google Scholar Profile</a></li>
 <li>Robert McCaa, Research Professor, Ambassador, IPUMS-International<a href="http://users.pop.umn.edu/~rmccaa/"> IPUMS Profile</a></li>
+<li>Steven Ruggles, Regents Professor of History and Population<a href="https://scholar.google.com/citations?user=nvIl0pUAAAAJ">Google Scholar Profile</a></li>
 
-<u>Revistas</u>
+Revistas
 <ul>
 <li><a href="http://www.tandfonline.com/toc/vhim20/28/1">Historical Methods: A Journal of Quantitative and Interdisciplinary History</a></li>
 <li><a href="https://www.cambridge.org/core/journals/social-science-history">Social Science History - Cambridge University Press</a></li>
 <li><a href="
-https://www.jstor.org/journal/socisciehist">Social Science History - Cambridge University Press</a>Acceso por JSTOR</li>
+https://www.jstor.org/journal/socisciehist">Social Science History - Cambridge University Press</a> Acceso por JSTOR</li>
 <li><a href="https://history.mit.edu/social-science-history">Social Science History - Massachusetts Institute of Technology</a></li>
 
 

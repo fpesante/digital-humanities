@@ -28,4 +28,4 @@ Revistas
 <li><a href="https://www.jstor.org/journal/socisciehist">Social Science History - Cambridge University Press.</a> Acceso por JSTOR</li>
 <li><a href="https://history.mit.edu/social-science-history">Social Science History - Massachusetts Institute of Technology</a></li></ul>
 
-
+<!--https://daringfireball.net/projects/markdown/syntax-->

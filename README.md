@@ -38,6 +38,13 @@ Revistas
 <li><a href="https://history.mit.edu/social-science-history">Social Science History - Massachusetts Institute of Technology</a></li></ul>
 
 Aplicación
-<li><a href="https://www.livemint.com/technology/tech-news/can-machine-learning-predict-history-1560766434902.html">Can Machine Learning Predict History</a></li>
+<ul><li><a href="https://www.livemint.com/technology/tech-news/can-machine-learning-predict-history-1560766434902.html">Can Machine Learning Predict History</a></li>,</ul>
+
+<h1>Instituciones</h1>
+<ul>
+<li><a href="http://linhd.uned.es">Laboratorio de Innovacion en Humanidades Digitales</a></li>
+<li><a href="https://www.dariah.eu/">The Digital Research Infrastructure for the Arts and Humanities (DARIAH)</a></li>
+</ul>
+
 <!--markdown syntax-->
 <!--https://daringfireball.net/projects/markdown/syntax-->

@@ -40,12 +40,24 @@ Revistas
 Aplicación
 <ul><li><a href="https://www.livemint.com/technology/tech-news/can-machine-learning-predict-history-1560766434902.html">Can Machine Learning Predict History</a></li>,</ul>
 
-<h1>Instituciones</h1>
+<h1>Instituciones HD</h1>
 <ul>
 <li><a href="http://linhd.uned.es">Laboratorio de Innovacion en Humanidades Digitales</a></li>
 <li><a href="https://www.dariah.eu/">The Digital Research Infrastructure for the Arts and Humanities (DARIAH)</a></li>
 <li><a href="https://drive.google.com/open?id=1WsgZplBGmkyXMTh4MGQh3RFWiuKVV1jp&usp=sharing">Mapa de instituciones dedicadas a las Humanidades Digitales</a></li>  
 </ul>
 
+<h1>Congresos</h1>
+<ul>
+<li><a href="https://www.scribd.com/document/398211729/Humanidades-Digitales-Construcciones-Locales-en-Contextos-Globales">Humanidades Digitales: Construcciones Locales en Contextos Globales</a></li>
+<li><a href="https://www.scribd.com/document/398211089/III-Congreso-de-la-Sociedad-Internacional-Humanidades-Digitales-Hispanicas-Sociedades-politicas-saberes">III Congreso de la Sociedad Internacional Humanidades Digitales Hispánicas: Sociedades, políticas, saberes</a></li>
+</ul>
+
+<h1>Adiestramientos</h1>
+<ul>
+<li><a href="http://dhtraining.org/hilt/">Humanities Intensive Learning and Teaching</a></li>
+<li><a href="http://dhinstitutes.org/">Digital Humanities Research Institute</a></li>  
+<li><a href="http://digital.humanities.ox.ac.uk/">Digital.Humanities @ Oxford </a></li>  
+</ul>
 <!--markdown syntax-->
 <!--https://daringfireball.net/projects/markdown/syntax-->

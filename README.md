@@ -38,7 +38,7 @@ Revistas
 <li><a href="https://history.mit.edu/social-science-history">Social Science History - Massachusetts Institute of Technology</a></li></ul>
 
 Aplicación
-<ul><li><a href="https://www.livemint.com/technology/tech-news/can-machine-learning-predict-history-1560766434902.html">Can Machine Learning Predict History</a></li>,</ul>
+<ul><li><a href="https://www.livemint.com/technology/tech-news/can-machine-learning-predict-history-1560766434902.html">Can Machine Learning Predict History</a></li></ul>
 
 <h1>Instituciones HD</h1>
 <ul>

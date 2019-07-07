@@ -42,7 +42,7 @@ Aplicación
 
 <h1>Instituciones HD</h1>
 <ul>
-<li><a href="http://linhd.uned.es">Laboratorio de Innovacion en Humanidades Digitales</a></li>
+<li><a href="http://linhd.uned.es">Laboratorio de Innovacion en Humanidades Digitales</a></li> <li><a href="https://www.youtube.com/channel/UCzPzY-ibt3Nmd0ceU9iF0yQ/videos">Página Youtube</a></li>
 <li><a href="https://www.dariah.eu/">The Digital Research Infrastructure for the Arts and Humanities (DARIAH)</a></li>
 <li><a href="https://drive.google.com/open?id=1WsgZplBGmkyXMTh4MGQh3RFWiuKVV1jp&usp=sharing">Mapa de instituciones dedicadas a las Humanidades Digitales</a></li>  
 </ul>

@@ -45,7 +45,16 @@ Aplicación
 <p>Recursos relacionados a estilometría.</p>
 
 <ul>
-<li>Text Mining with R<a href="https://www.tidytextmining.com/"></a></li>
+<li><a href="https://www.tidytextmining.com/">Text Mining with R</a></li></ul>
+
+
+<h1>Revistas HD</h1>
+
+<p>Revistas sobre Humanidades Digitales</p>
+
+<ul>
+<li><a href="https://www.artyhum.com/monograficos/HD_PC/#p=1">Monográfico de humanidades digitales y pedagógicos culturales</a></li></ul>
+
 
 <h1>Instituciones HD</h1>
 <ul>

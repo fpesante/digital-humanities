@@ -40,6 +40,13 @@ Revistas
 Aplicación
 <ul><li><a href="https://www.livemint.com/technology/tech-news/can-machine-learning-predict-history-1560766434902.html">Can Machine Learning Predict History</a></li></ul>
 
+<h1>Text Analysis</h1>
+
+<p>Recursos relacionados a estilometría.</p>
+
+<ul>
+<li>Text Mining with R<a href="https://www.tidytextmining.com/"></a></li>
+
 <h1>Instituciones HD</h1>
 <ul>
 <li><a href="http://linhd.uned.es">Laboratorio de Innovacion en Humanidades Digitales</a></li> <li><a href="https://www.youtube.com/channel/UCzPzY-ibt3Nmd0ceU9iF0yQ/videos">Página Youtube</a></li>

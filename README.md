@@ -27,7 +27,7 @@
 Artículos
 <ul>
 <li>Mario Cancel, Giro Social e Historia Cuantitativa<a href="https://mariocancel.wordpress.com/2020/05/22/giro-social-e-historia-cuantitativa/"></a></li>
- <li>Rugiero Romano, Historia cuantitativa, historia económica e historia : algunas consideraciones sobre la historiografía francesa de hoy<a href="https://books.openedition.org/cemca/634?lang=en#text"></a></li>
+ <li>Rugiero Romano, Historia cuantitativa, historia económica e historia : algunas consideraciones sobre la historiografía francesa de hoy<a href="https://books.openedition.org/cemca/634?lang=en#text"></a></li></ul>
 
 Investigadores
 <ul>

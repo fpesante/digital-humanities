@@ -58,7 +58,9 @@ Aplicación
 <p>Revistas sobre Humanidades Digitales</p>
 
 <ul>
-<li><a href="https://www.artyhum.com/monograficos/HD_PC/#p=1">Monográfico de humanidades digitales y pedagógicos culturales</a></li></ul>
+<li><a href="https://www.artyhum.com/monograficos/HD_PC/#p=1">Monográfico de humanidades digitales y pedagógicos culturales</a></li>
+<li><a href="http://revistas.uned.es/index.php/RHD/index">Revista de Humanidades Digitales</a></li></ul>
+
 
 
 <h1>Instituciones HD</h1>

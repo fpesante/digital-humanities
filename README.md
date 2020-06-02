@@ -24,6 +24,11 @@
 
 <p>Recursos relacionados a historia cuantitativa.</p>
 
+Artículos
+<ul>
+<li>Mario Cancel, Giro Social e Historia Cuantitativa<a href="https://mariocancel.wordpress.com/2020/05/22/giro-social-e-historia-cuantitativa/"></a></li>
+ <li>Rugiero Romano, Historia cuantitativa, historia económica e historia : algunas consideraciones sobre la historiografía francesa de hoy<a href="https://books.openedition.org/cemca/634?lang=en#text"></a></li>
+
 Investigadores
 <ul>
 <li>Robert McCaa, Research Professor, Ambassador, IPUMS-International<a href="https://scholar.google.com/citations?user=MMXGTRgAAAAJ&hl=es&oi=ao"> Google Scholar Profile</a></li>

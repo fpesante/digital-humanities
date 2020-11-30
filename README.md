@@ -27,8 +27,8 @@
 Artículos
 <ul>
 <li>Mario Cancel,<a href="https://mariocancel.wordpress.com/2020/05/22/giro-social-e-historia-cuantitativa/"> Giro Social e Historia Cuantitativa</a></li>
- <li>Rugiero Romano,<a href="https://books.openedition.org/cemca/634?lang=en#text"> Historia cuantitativa, historia económica e historia : algunas consideraciones sobre la historiografía francesa de hoy</a></li></ul>
- <li>Steven Ruggles,<a href="http://users.hist.umn.edu/~ruggles/Articles/Ruggles_Revival_of_Quantification.pdf"> The Revival of Quantification: Reflections onOldNew Histories</a></li></ul>
+<li>Rugiero Romano,<a href="https://books.openedition.org/cemca/634?lang=en#text"> Historia cuantitativa, historia económica e historia : algunas consideraciones sobre la historiografía francesa de hoy</a></li>
+<li>Steven Ruggles,<a href="http://users.hist.umn.edu/~ruggles/Articles/Ruggles_Revival_of_Quantification.pdf"> The Revival of Quantification: Reflections onOldNew Histories</a></li></ul>
 
 
 Investigadores
@@ -52,7 +52,8 @@ Aplicación
 <p>Recursos relacionados a estilometría.</p>
 
 <ul>
-<li><a href="https://www.tidytextmining.com/">Text Mining with R</a></li></ul>
+<li><a href="https://www.tidytextmining.com/">Text Mining with R</a></li>
+<li><a href="https://www.nltk.org/">Natural Language Toolkit with Python</a></li></ul>
 
 
 <h1>Revistas HD</h1>

@@ -84,7 +84,7 @@ Aplicación
 <ul>
 <li><a href="http://dhtraining.org/hilt/">Humanities Intensive Learning and Teaching</a></li>
 <li><a href="http://dhinstitutes.org/">Digital Humanities Research Institute</a></li> 
-  *<li><a href="http://archive.dhinstitutes.org/june_2018_curriculum.html">2018 Curriculum</a></li> 
+<li><a href="http://archive.dhinstitutes.org/june_2018_curriculum.html">Digital Humanities Research Institute: 2018 Curriculum</a></li> 
 <li><a href="http://digital.humanities.ox.ac.uk/">Digital.Humanities @ Oxford </a></li>  
 </ul>
 <!--markdown syntax-->

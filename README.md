@@ -52,6 +52,7 @@ Aplicación
 <p>Recursos relacionados a estilometría.</p>
 
 <ul>
+<li><a href="http://walshbr.com/textanalysiscoursebook/">Introduction to Text Analysis: A Coursebook</a></li>
 <li><a href="https://www.tidytextmining.com/">Text Mining with R</a></li>
 <li><a href="https://www.nltk.org/">Natural Language Toolkit with Python</a></li></ul>
 
